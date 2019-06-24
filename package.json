@@ -1,0 +1,27 @@
+{
+    "name": "slack-viewer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "electron/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/takeokunn/slack-viewer.git"
+    },
+    "keywords": [
+        "slack",
+        "electron",
+        "typescript"
+    ],
+    "author": "takeokunn",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/takeokunn/slack-viewer/issues"
+    },
+    "homepage": "https://github.com/takeokunn/slack-viewer#readme",
+    "dependencies": {
+        "electron": "^5.0.5"
+    }
+}
